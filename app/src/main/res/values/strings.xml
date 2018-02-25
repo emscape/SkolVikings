@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skol Vikings</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="point_after">Point After</string>
+    <string name="safety">Safety, 2pt Conversion</string>
+    <string name="touchdown">Touchdown</string>
+</resources>
